@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9F938F575ed32F50717f071e38c5740EcB3723a3",
+  "SCAN_LINK": "https://testnet.bscscan.com/address/0x9f938f575ed32f50717f071e38c5740ecb3723a3",
+  "NETWORK": {
+    "NAME": "Smart Chain - Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
+  },
+  "NFT_NAME": "Horror Ape Club NFT",
+  "SYMBOL": "TSNFT",
+  "MAX_SUPPLY": 6666,
+  "WEI_COST": 66000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
